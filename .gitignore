@@ -1,5 +1,7 @@
 # local files
 /local
+/.ipynb_checkpoints
+test.ipynb
 
 # Editor temporary/working/backup files #
 #########################################
